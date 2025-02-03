@@ -1,0 +1,10 @@
+PyPDF2
+groq
+chromadb
+sentence-transformers
+nltk
+fpdf
+torch
+streamlit
+python-dotenv
+faiss-cpu
